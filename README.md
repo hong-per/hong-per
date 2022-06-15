@@ -1,8 +1,15 @@
 <!-- ### Hi there 👋 -->
-<h1>Hi! 👋 I'm Hong. Nice to meet you!</h1>
+<h1>Hi there 👋 Nice to meet you!</h1>
 <p>Welcome to my GitHub. I'm Backend Developer from Korea, living in Japan currently.</p>
 
 <h2>Tech Stack</h2>
+
+- Python
+- Ruby
+- Flask
+- Ruby on Rails
+- Graphql
+- Docker
 
 <!--
 **hong-per/hong-per** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
