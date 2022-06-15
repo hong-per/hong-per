@@ -11,6 +11,8 @@
 - Graphql
 - Docker
 
+https://img.shields.io/github/languages/code-size/hong-per/hong-per?label=python&style=flat-square
+
 <!--
 **hong-per/hong-per** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
