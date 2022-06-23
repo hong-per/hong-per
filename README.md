@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 <h1>Hi there 👋 Nice to meet you!</h1>
-<p>Welcome to my GitHub. I'm Backend Developer from Korea, living in Japan currently.</p>
+<p>Welcome to my GitHub. I'm Web Developer from Korea, living in Japan currently.</p>
 
 <h2>Tech Stack</h2>
 
